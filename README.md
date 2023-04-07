@@ -1,0 +1,2 @@
+# TypeScript-Monorepo-Boilerplate
+TypeScript
